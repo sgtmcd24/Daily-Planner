@@ -1,0 +1,14 @@
+body {
+  background-color: #0d0d0d;
+  color: #0ff;
+  font-family: 'Courier New', monospace;
+}
+
+h1 {
+  color: #f0f;
+  text-shadow: 0 0 5px #f0f;
+}
+
+#planner {
+  margin-top: 20px;
+}
